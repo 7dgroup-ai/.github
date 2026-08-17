@@ -77,4 +77,4 @@
 ## 📮 联系我们
 
 - 📱 **微信 / 电话：18611869407**
-- 📧 **邮箱：[support@7dtest.com](mailto:support@7dtest.com)**
+- 📧 **邮箱：[32913946@qq.com](mailto:32913946@qq.com)**
