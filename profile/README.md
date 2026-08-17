@@ -78,3 +78,6 @@
 
 - 📱 **微信 / 电话：18611869407**
 - 📧 **邮箱：[32913946@qq.com](mailto:32913946@qq.com)**
+- 📣 **微信公众号：**
+
+<img src="https://img-blog.csdnimg.cn/20190304100509555.jpg" style="width:180px;height:180px;border-radius:8px;border:1px solid #eee;padding:4px;background:#fff;" alt="二维码">
